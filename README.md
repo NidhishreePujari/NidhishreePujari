@@ -1,132 +1,25 @@
-<div align="center">
+## 👋 Hey, I'm *Nidhishree!*
 
-# 👩‍💻 Nidhishree Pujari  
-### 🚀 Full Stack Developer | Java • Spring Boot • React • AWS  
+💡 A passionate *learner* and *developer* diving into 🚀 **Java**, **full-stack development**, and **real-world software projects**.
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Designing+Scalable+Backend+Systems;Building+Cloud-Ready+Applications;Open+to+Collaboration" />
 
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhishree-pujari-135757330) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nidhishreepujari@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NidhishreePujari&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NidhishreePujari&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhishreePujari&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 👩‍🎓 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🎓 Computer Science Student passionate about building scalable, secure, and high-performance applications.  
-💡 Strong problem-solving mindset with a focus on clean architecture and system design.  
-⚙️ Experienced in full-stack development across backend, frontend, and cloud deployment.  
-☁️ Actively exploring DevOps, CI/CD, and distributed systems.  
-🤝 Open to collaboration, internships, and innovative projects.
-
----
-
-# 🧠 Technical Stack
-
-## 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,sql" />
-</p>
-
-## 🌐 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind" />
-</p>
-
-## 🔧 Backend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-
-## 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-<p align="center">
-  <b>Oracle SQL</b>
-</p>
-
-## ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,githubactions,git" />
-</p>
-
-<p align="center">
-  CI/CD Pipelines • Deployment Automation
-</p>
-
-## 🛠️ Development Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,postman,vscode,idea,eclipse,figma" />
-</p>
-
-<p align="center">
-  Canva
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NidhishreePujari&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=NidhishreePujari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🚀 Featured Projects
-
-## 🔹 AI Algorithm Visualizer  
-An interactive visualization platform that transforms complex algorithms into structured, step-by-step execution flows. Designed to enhance conceptual clarity by illustrating logic, runtime behavior, and performance characteristics in an intuitive way.
-
-**Key Highlights:**
-- Step-by-step algorithm execution breakdown  
-- Visual representation of logic & performance flow  
-- Designed for learners and developers  
-
-🔗 Repository:  
-https://github.com/PatilSharvil/AI-Algorithm-Visualizer
-
----
-
-## 🔹 Job Portal Web Application  
-A Flask-based full-stack job portal connecting job seekers, employers, and administrators through role-specific dashboards.  
-
-**Key Features:**
-- Secure user authentication & role management  
-- Job posting and application system  
-- Resume uploads using MongoDB GridFS  
-- Email notifications system  
-- Analytics dashboard with MongoDB integration  
-
-**Tech Stack:** Flask • MongoDB • GridFS • Python • HTML/CSS  
-
-🔗 Repository:  
-https://github.com/NidhishreePujari/job_portal
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nidhishree-pujari-135757330">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
-<p align="center">
-  📧 nidhishreepujari37@gmail.com
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
